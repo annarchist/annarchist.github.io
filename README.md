@@ -1,9 +1,9 @@
 
-<!DOCTYPE html>
+
 <html>
 
    
-</head>
+
 <body>
 
 <h1>Sydney's Newtown</h1>
